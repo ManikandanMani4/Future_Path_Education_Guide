@@ -40,7 +40,7 @@ An AI-powered full-stack web application that generates **personalized career ro
 ---
 
 ### 📊 Step 4: Interactive Dashboard
-![Dashboard](assets/dashboard.png)
+![Dashboard](assets/dashb.png)
 
 ---
 
